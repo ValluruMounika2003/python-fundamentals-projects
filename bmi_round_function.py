@@ -1,0 +1,4 @@
+bmi = 84/1.65 ** 2
+print(bmi)
+#round function
+print(round(bmi))
